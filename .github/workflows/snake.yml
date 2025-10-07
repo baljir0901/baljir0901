@@ -2,32 +2,37 @@ name: Generate Snake Contribution Grid
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at 00:00 UTC
-  workflow_dispatch:     # Allows manual run from the Actions tab
+    - cron: "0 0 * * *"   # 00:00 UTC өдөр бүр
+  workflow_dispatch:      # Гараар ажиллуулах боломж
+
+# PUSH хийх эрх
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Generate Snake Contribution Grid
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: baljir0901
           outputs: |
-            ./github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg
 
-      - name: Confirm SVG was generated
-        run: ls -la
+      - name: List generated files (debug)
+        run: ls -la dist
 
-      - name: Push the SVG to the output branch
+      - name: Publish SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: .
+          build_dir: dist
           keep_history: false
+          commit_message: "chore: update snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
