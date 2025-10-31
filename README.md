@@ -5,7 +5,7 @@
     alt="Typing SVG"
   />
 </p>
-
+ 
 ## 👨‍💻 About Me
 
 - 💼 Former Engineer & Business Manager in Japan 🇯🇵  
