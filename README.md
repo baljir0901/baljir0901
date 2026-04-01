@@ -1,3 +1,22 @@
+## 🎧 Listen, chill and focus coding
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Gu-g8FRG4Zs" target="_blank">
+    <img src="https://img.youtube.com/vi/Gu-g8FRG4Zs/hqdefault.jpg" alt="Video 1" width="190" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=jFK8SoQJqAQ" target="_blank">
+    <img src="https://img.youtube.com/vi/jFK8SoQJqAQ/hqdefault.jpg" alt="Video 2" width="190" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=EtD7_8kCMHA" target="_blank">
+    <img src="https://img.youtube.com/vi/EtD7_8kCMHA/hqdefault.jpg" alt="Video 3" width="190" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=FtukH_bCDHg" target="_blank">
+    <img src="https://img.youtube.com/vi/FtukH_bCDHg/hqdefault.jpg" alt="Video 4" width="190" />
+  </a>
+</p>
+
+---
+
 <!-- Typing animation -->
 <p align="center">
   <img 
@@ -99,26 +118,6 @@ If you find my work helpful, consider buying me a coffee!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/baljir0901/baljir0901/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
-
-## 🎥 Featured Videos
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=Gu-g8FRG4Zs" target="_blank">
-    <img src="https://img.youtube.com/vi/Gu-g8FRG4Zs/hqdefault.jpg" alt="Video 1" width="400" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=jFK8SoQJqAQ" target="_blank">
-    <img src="https://img.youtube.com/vi/jFK8SoQJqAQ/hqdefault.jpg" alt="Video 2" width="400" />
-  </a>
-  <br/>
-  <a href="https://www.youtube.com/watch?v=EtD7_8kCMHA" target="_blank">
-    <img src="https://img.youtube.com/vi/EtD7_8kCMHA/hqdefault.jpg" alt="Video 3" width="400" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=FtukH_bCDHg" target="_blank">
-    <img src="https://img.youtube.com/vi/FtukH_bCDHg/hqdefault.jpg" alt="Video 4" width="400" />
-  </a>
 </p>
 
 ---
