@@ -78,19 +78,19 @@ If you find my work helpful, consider buying me a coffee!
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baljir0901&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=baljir0901&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baljir0901&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=baljir0901&layout=compact&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=baljir0901&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=baljir0901&theme=onedark&column=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baljir0901&theme=tokyonight" />
 </p>
 
 ---
